@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+<style/>
+<body>
+    <h1>Odin Recipes</h1>
+<img src="https://www.modernhoney.com/classic-lasagna-recipe/">
+<p>The perfect lasagna recipe made with parmesan ricotta cheese filling, melted mozzarella cheese, lasagna noodles, and a robust tomato meat sauce. It is the best lasagna recipe!</p>
+  <ul>
+    <li>Olive Oil<li/> 
+    <li>Onion (finely diced)<li/>
+    <li>Onion (finely diced)<li/>
+    <li>Ground Beef<li/>
+    <li>Garlic Powder (or 5 garlic cloves, finely minced)<li/>
+    <li>Salt and Pepper<li/>
+    <li>Marinara Sauce<li/>
+   <ul/>
+
+
+
+<p> if using jarred marinara sauce, I suggest using Rao’s or Carbone’s. I love to buy Rao’s at Costco since it is much cheaper! Here is a recipe for homemade marinara sauce.<p/>
+
+<h1>Parmesan Ricotta Cheese Filling:<h1/>
+   <ul>
+     <li>Whole Milk Ricotta Cheese<li/>
+     <li>Grated Parmesan Cheese<li/>
+     <li>Egg<li/>
+     <li>Dried Basil, Salt, and Pepper<li/>
+     <li>Dried Basil, Salt, and Pepper<li/>
+     <li>Mozzarella Cheese<li/>
+    <ul/>
+
+
+
+
+
+
+Lasagna Noodles or Lasagna Sheets
+Mozzarella Cheese 
+
+
+<a href="recipes/recipename.html">Recipe Title</a>
+<a href="../index.html">Home</a>
+
+</body>
+</html>
+
