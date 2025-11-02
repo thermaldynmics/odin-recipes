@@ -1,0 +1,95 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lasagna Recipe</title>
+</head>
+<style>
+ body { 
+      background-color:CFAB8D;
+      font-family:Georgia, serif
+      font-size:23px;
+  }
+
+ h1  {
+      font-size: 26px;
+      text-align:center; 
+
+  }
+  p  { 
+      font-size:32;
+      text-align:center; 
+  }
+
+</style>
+
+
+
+<body>
+    <a href="../index.html">Home</a>
+    <h1>Donauwelle (Danube Wave Cake)</h1>
+    <img src=https://www.allrecipes.com/thmb/EIEgjCyOpiv4ppS4FChY7-2-UWQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/218954-donauwelle-VAT-Beauty-4x3-75486de4fb9f4f0bade0ad4b4410cbe2.jpg
+    <p>
+Donauwelle is a classic German cake with layers of vanilla and chocolate cake topped with cherries, custard, and a glossy chocolate glaze. It's as delicious as it looks!
+    </p>
+
+    <h2>Ingredients</h2>
+   
+    <ul>
+        <li>2 cups all-purpose flour</li>
+        <li>1 teaspoon baking powder</li>
+        <li>1 cup butter</li>
+        <li>2 tablespoons butter</li>
+        <li>1 ¼ cups white sugar</li>
+        <li>1 1 teaspoon vanilla extract</li>
+        <li>5 large eggs, separated</li>
+        <li>2 teaspoons unsweetened cocoa powder</li>
+        <li>1 (16-ounce) can pitted tart cherries in water, drained</li>
+        
+    </ul>
+    <h3>Custard Filling:</h3>
+    <ul>
+        <li>3 tablespoons cornstarch</li>
+        <li>1/2 cup white sugar</li>
+        <li>2 cups milk</li>
+        <li>1 ½ teaspoons vanilla extract</li>
+   
+    </ul>
+    <h3>Chocolate Glaze:</h3>
+    <ul>
+        <li1 1⁄3 cups semisweet chocolate chips></li>
+        <li>2 tablespoons vegetable oil</li>
+ 
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <strong><liDirections></li></strong>
+     <li>Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Line a 9x13-inch baking dish with parchment paper.
+
+
+     <li>To make the cake layers: Sift flour and baking powder together into a bowl; set aside. Beat 1 cup plus 2 tablespoons butter with an electric mixer in a large bowl until light and fluffy. Beat in white sugar, vanilla extract, and 5 egg yolks. Stir in flour mixture until just combined</li>
+     <li>Beat egg whites in a glass, metal, or ceramic bowl until foamy; continue to beat until stiff peaks form. Lift your beater or whisk straight up: the egg whites should form a sharp peak that holds its shape.
+
+</li>
+     <liGently fold 1/3 of the egg whites into the batter, keeping as much volume as possible. Add the remaining egg whites, folding just until incorporated.></li>
+     <li>Pour half of the batter into a separate bowl. Sift cocoa powder into one bowl of batter; stir until just combined.
+
+</li>
+     <li>Pour white cake batter into the prepared baking dish, then spread chocolate cake batter on top. Pat cherries dry with paper towels, and sprinkle them evenly on top.</li>
+     <li>Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 25 to 30 minutes; set aside to cool.
+
+</li>
+     <li>To make the custard filling: Whisk cornstarch and 1/2 cup sugar together in a small bowl. Heat milk in a small saucepan just until hot but not boiling. Whisk in cornstarch mixture until smooth; bring mixture to a boil, whisking constantly, until mixture is thick and easily coats the back of a spoon, about 2 to 3 minutes. Remove from heat and stir in vanilla.</li>
+     <li>Spread custard filling over cooled cake; press a piece of plastic wrap directly onto the surface of the custard filling so it doesn't form a skin. Refrigerate until set, at least 2 hours to overnight.
+     <li>To make the chocolate glaze: Place chocolate chips in a microwave-safe bowl. Heat at 30 second intervals, stirring each time, until just melted and smooth. Stir in oil until glossy.</li>
+     <li>Spread chocolate glaze over chilled custard layer. When the glaze has set slightly, about 10 minutes, drag a fork lightly across the surface in wavy lines to create a wave pattern on the chocolate.</li>
+     <li>Let glaze set completely before slicing cake into squares. Enjoy!
+
+</li>
+    </ol>
+<img src=https://www.allrecipes.com/thmb/pJMZkj_8sLjXYDAcAITov7YV2G0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/218954-donauwelle-VAT-step-11-a070559676fe4ee18eea86c4314dc8a8.jpg
+
+
+</body>
+</html>
