@@ -1,0 +1,71 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BuffaloChickenWraps</title>
+</head>
+<style>
+ body { 
+      background-color:B87C4C;
+      font-family:Georgia, serif
+      font-size:23px;
+  }
+
+ h1  {
+      font-size: 30px;
+      text-align:center; 
+
+  }
+
+  p  { 
+      font-size:32;
+      text-align:center; 
+  }
+
+  ul {
+      font-size: 32px; /* change the text size */
+    }
+
+</style>
+
+
+    }
+
+
+    
+<body>
+<a href="../index.html">Home</a>
+<p>These simple Buffalo chicken wraps can be customized with your family's favorite toppings. Try shredded cheese, tomatoes, or onions.
+</p>
+
+<img src=https://www.allrecipes.com/thmb/QWeaUI5sTQGoww_6HHCuQ6HXN9c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AR-188473-Buffalo-Chicken-Wraps-ddmfs-gw-beauty-4x3-adec66cb0d4e46b48ac4f07ee648fec7.jpg
+
+
+
+<ul>
+  <li>1 tablespoon vegetable oil</li>
+  <li>tablespoon butter</li>
+  <li>1 pound skinless, boneless chicken breasts, cut into bite-size piece¼ cup hot sauces</li>
+  <li>4 (10 inch) flour tortillas</li>
+  <li>2 cups shredded lettuce</li>
+  <li>1 celery stalk, diced</li>
+  <li>½ cup blue cheese dressing</li>
+</ul>
+
+<h1> Directions </h1>
+
+<ol>
+<li>Gather all ingredients.</li>
+<li>Heat oil and butter in a large skillet over medium-high heat until butter melts. Add chicken; cook and stir until no longer pink in the center and the juices run clear, about 10 minutes. Remove from the heat</li>
+<li>Pour hot sauce into the skillet and toss until chicken is coated.</li>
+<li>Lay tortillas out on a work surface. Divide sauced chicken evenly among tortillas.</li>
+<li>Top the chicken with lettuce and celery, then drizzle blue cheese dressing over top.</li>
+<li>Fold in tortilla sides and roll around filling. Serve and enjoy!</li>
+
+</ol>
+
+
+
+</body>
+</html>
