@@ -1,0 +1,135 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lasagna Recipe</title>
+</head>
+<style>
+ body { 
+      background-color:FA812F;
+      font-family:Georgia, serif
+      font-size:23px;
+  }
+
+ h1  {
+      font-size: 40px;
+      text-align:center; 
+
+  }
+  p  { 
+      font-size:32;
+      text-align:center; 
+  }
+
+h2  {
+      font-size: 40px;
+      text-align:center; 
+
+  }
+
+h3  {
+      font-size: 40px;
+      text-align:center; 
+
+  }
+
+ul   {
+       font-size: 26px;
+      text-align:center; 
+
+  }
+
+ol   {
+       font-size: 26px;
+      text-align:center; 
+
+  }
+
+
+
+</style>
+
+
+
+<body>
+    <a href="../index.html">Home</a>
+    <h1>Lasagna's Recipe</h1>
+    <img src="https://www.modernhoney.com/wp-content/uploads/2024/01/Best-Lasagna-Recipe-10.jpg." alt="Image of a lasagna" height="410" width="510">
+    <h2>Description</h2>
+    <p>
+        Few dishes bring the same level of comfort and satisfaction as a classic homemade lasagna. With its rich layers of seasoned meat sauce, 
+        creamy béchamel (or ricotta, depending on the variation), perfectly cooked pasta, and a generous topping of melted cheese, 
+        lasagna is a celebration of hearty Italian cooking. It's a dish often reserved for gatherings and special occasions, 
+        but it's worth every bit of effort, delivering bold flavors and a satisfying texture in every bite.
+    </p>
+
+    <p>
+        This version stays true to tradition, combining a slow-cooked meat sauce with a velvety ricotta mixture and gooey mozzarella, 
+        all layered between sheets of pasta. The balance of savory meat, tangy tomato, 
+        smooth cheese, and just the right amount of seasoning makes this lasagna deeply comforting and incredibly delicious. 
+        Whether you're making it for a family dinner or prepping ahead for the week, this recipe is a guaranteed crowd-pleaser.
+    </p>
+    <h1>Ingredients</h1>
+    <h1>for the meat sauce:</h1
+    <ul>
+        <li>1 tbsp olive oil</li>
+        <li>1 lb (450g) ground beef</li>
+        <li>1/2 lb (225g) Italian sausage, casings removed</li>
+        <li>1 small onion, finely chopped</li>
+        <li>3 cloves garlic, minced</li>
+        <li>1 (28 oz) can crushed tomatoes</li>
+        <li>2 tbsp tomato paste</li>
+        <li>1 tsp dried oregano</li>
+        <li>1 tsp dried basil</li>
+        <li>Salt and black pepper to taste</li>
+    </ul>
+    <h1>For the Ricotta Mixture:</h3>
+    <ul>
+        <li>1 ½ cups ricotta cheese</li>
+        <li>1 egg</li>
+        <li>1/4 cup grated Parmesan cheese</li>
+        <li>1 tsp dried parsley or Italian seasoning</li>
+        <li>Salt and pepper to taste</li>
+    </ul>
+    <h1>Other Ingredients:</h3>
+    <ul>
+        <li>9–12 lasagna noodles (regular or oven-ready)</li>
+        <li>2 cups shredded mozzarella cheese</li>
+        <li>1/4 cup grated Parmesan cheese (for topping)</li>
+        <li>Fresh basil or parsley for garnish (optional)</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <strong><li>Make the Meat Sauce:</li></strong>
+        <p>Heat olive oil in a large skillet over medium heat. 
+           Add the ground beef and sausage, breaking them up as they cook. Once browned, 
+           drain excess fat. Add the chopped onion and cook until softened, 
+           about 5 minutes. Stir in garlic, tomato paste, crushed tomatoes, 
+           oregano, basil, and red pepper flakes. Season with salt and pepper. 
+           Pour in red wine or broth if using. Simmer uncovered for 20–30 minutes, 
+           stirring occasionally until thickened.</p>
+        <strong><li>Prepare the Ricotta Mixture:</li></strong>
+        <p>In a bowl, combine ricotta, egg, Parmesan, parsley, salt, and pepper. 
+            Mix well and set aside.</p>
+        <strong><li>Cook the Noodles:</li></strong>
+        <p>If using regular noodles, cook them according to package instructions. 
+            Drain and lay them flat on parchment paper to avoid sticking. 
+            (Skip if using oven-ready noodles.)</p>
+        <strong><li>Assemble the Lasagna:</li></strong>
+        <p>Preheat oven to 375°F (190°C). In a 9x13 inch baking dish, 
+            spread a thin layer of meat sauce on the bottom. Layer with 3–4 noodles, 
+            followed by a layer of ricotta mixture, meat sauce, 
+            and a sprinkle of mozzarella. Repeat for 2–3 layers, 
+            ending with noodles, sauce, and the remaining mozzarella and Parmesan on top.
+        </p>
+        <strong><li>Bake:</li></strong>
+        <p>Cover the dish with foil (tenting it slightly so it doesn't stick to the 
+            cheese) and bake for 25 minutes. Remove foil and bake uncovered for another 
+            20 minutes until bubbly and golden brown.</p>
+        <strong><li>Rest and Serve:</li></strong>
+        <p>Let lasagna rest for 10–15 minutes before slicing. 
+            Garnish with chopped fresh basil or parsley if desired. Serve warm.</p>
+    </ol>
+</body>
+</html>
