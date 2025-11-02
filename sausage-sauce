@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Great Recipes</title>
+</head>
+<style>
+/* CSS goes here */
+
+   img {
+      float: right; /* pushes image to the right */
+      width: 200px;
+      margin: 10px;
+    }
+
+
+    body {
+      background-color:AED6CF;
+      font-family:'Times New Roman', Times, serif;
+      font-size: 30px;
+
+    }
+
+    h1 {
+      color: darkblue;
+      text-align: center;
+      font-size: 30px;
+    }
+    ul {
+      font-family:Verdana, Geneva, Tahoma, sans-serif ;
+      color: black;
+      font-size: 23px;
+    }
+
+    p {font-family:Verdana, Geneva, Tahoma, sans-serif ;
+      color: black;
+      font-size: 28px;
+
+    }
+
+  </style>
+
+<body>
+
+ <h1>Slow Cooker Sausage with Sauce</h1>
+
+ <div style="text-align: center;">
+
+ <img src=https://www.allrecipes.com/thmb/vFJnhqZ8VWWIzSYoTuwwCsaU5IA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/70702-slow-cooker-sausage-with-sauce-4x3-1227-ec75ddc8d6c5422e83f7970cddf7fe69.jpg
+
+ <p>This crockpot sausage recipe is a warm, easy meal made even easier in the slow cooker. These sausages may be served in sandwiches or over rice.</p>
+
+ <h1>Ingredients</h1>
+
+<ul>
+  <li>8 (4 ounce) links fresh Italian sausage></li>
+  <li>1 (26 ounce) jar spaghetti sauce</li>
+  <li>1 green bell pepper, seeded and sliced into strips</li>
+  <li>1 onion, sliced</li>
+</ul>
+
+   </body>
+</html>
