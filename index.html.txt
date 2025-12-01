@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,10 +36,10 @@
 
  <h1>Great Recipes</h1>
 <ul>
-  <li><a href="https://www.allrecipes.com/">Home</a></li>
-  <li><a href="C:\Users\kelle\OneDrive\Documents\GitHub\odin-recipes\recipes\lasagna.html">Lasagna</a></li>
-  <li><a href="C:\Users\kelle\OneDrive\Documents\GitHub\odin-recipes\recipes\BuffaloChickenWraps.html"">BuffaloChickenWraps</a></li>
-  <li><a href="C:\Users\kelle\OneDrive\Documents\GitHub\odin-recipes\recipes\Donauwelle.html">Donauwelle</a></li>
+  <li><a href="recipes/lasagna.html">Lasagna</a></li>
+<li><a href="recipes/BuffaloChickenWraps.html">Buffalo Chicken Wraps</a></li>
+<li><a href="recipes/Donauwelle.html">Donauwelle</a></li>
+
 </ul>
 
    
@@ -91,8 +91,6 @@ Mozzarella Cheese
 
 
 
-
-
 Lasagna Noodles or Lasagna Sheets
 Mozzarella Cheese 
 
@@ -102,6 +100,7 @@ Mozzarella Cheese
 
 </body>
 </html>
+
 
 
 
