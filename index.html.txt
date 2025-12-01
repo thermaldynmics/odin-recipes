@@ -1,55 +1,92 @@
-<!DOCTYPE html>  
+!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
+   
+
+    <title>Great Recipes</title>
+</head>
 <style>
-<style>
-    /* CSS goes here */
+/* CSS goes here */
     body {
       background-color: lightblue;
-      font-family: Arial, sans-serif;
+      font-family:'Times New Roman', Times, serif
     }
 
     h1 {
       color: darkblue;
       text-align: center;
+      font-size: 30px;
+    }
+    ul {
+      font-family:Verdana, Geneva, Tahoma, sans-serif ;
+      color: black;
+      font-size: 14px;
     }
 
-    p {
+    p {font-family:Verdana, Geneva, Tahoma, sans-serif ;
       color: black;
-      font-size: 16px;
+      font-size: 20px;
+
     }
   </style>
-</head>
+
 <body>
-    <h1>Odin Recipes</h1>
-<img src="https://www.modernhoney.com/classic-lasagna-recipe/">
+
+ <h1>Great Recipes</h1>
+<ul>
+  <li><a href="https://www.allrecipes.com/">Home</a></li>
+  <li><a href="C:\Users\kelle\OneDrive\Documents\GitHub\odin-recipes\recipes\lasagna.html">Lasagna</a></li>
+  <li><a href="C:\Users\kelle\OneDrive\Documents\GitHub\odin-recipes\recipes\BuffaloChickenWraps.html"">BuffaloChickenWraps</a></li>
+  <li><a href="C:\Users\kelle\OneDrive\Documents\GitHub\odin-recipes\recipes\Donauwelle.html">Donauwelle</a></li>
+</ul>
+
+   
+<img src="https://www.allrecipes.com/thmb/3baJek2xfpJvQ4qFa0j-HEu55uc=/800x533/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/world-casserole-day-casserole-ambassador-11781928-PICS-Hero-3x2-crop-2b4f475f2f924fd29803c9949a27c319.jpg" 
+     alt="Casserole Dish" 
+     width="600">
+
+
 <p>The perfect lasagna recipe made with parmesan ricotta cheese filling, melted mozzarella cheese, lasagna noodles, and a robust tomato meat sauce. It is the best lasagna recipe!</p>
-  <ul>
-    <li>Olive Oil<li/> 
-    <li>Onion (finely diced)<li/>
-    <li>Onion (finely diced)<li/>
-    <li>Ground Beef<li/>
-    <li>Garlic Powder (or 5 garlic cloves, finely minced)<li/>
-    <li>Salt and Pepper<li/>
-    <li>Marinara Sauce<li/>
-   <ul/>
+<ul>
+    <li>Olive Oil</li> 
+    <li>Onion (finely diced)</li>
+    <li>Onion (finelic Powder (or 5 garlic cloves</li>
+    <li>Salt and Pepper</li>
+    <li>Ground Beef (80/20 or 85/15)<li
+    <li>Marinara Sauce</li>
+    </ul>
 
 
 
 <p> if using jarred marinara sauce, I suggest using Rao’s or Carbone’s. I love to buy Rao’s at Costco since it is much cheaper! Here is a recipe for homemade marinara sauce.<p/>
 
-<h1>Parmesan Ricotta Cheese Filling:<h1/>
+<h1>Parmesan Ricotta Cheese Filling:</h1>
    <ul>
-     <li>Whole Milk Ricotta Cheese<li/>
-     <li>Grated Parmesan Cheese<li/>
-     <li>Egg<li/>
-     <li>Dried Basil, Salt, and Pepper<li/>
-     <li>Dried Basil, Salt, and Pepper<li/>
-     <li>Mozzarella Cheese<li/>
-    <ul/>
+     <li>Whole Milk Ricotta Cheese</li>
+     <li>Grated Parmesan Cheese</li>
+     <li>Egg</li>
+     <li>Dried Basil, Salt, and Pepper</li>
+     <li>Dried Basil, Salt, and Pepper</li>
+     <li>Mozzarella Cheese</li>
+     </ul>
+
+
+<h1>Other Ingredients:</h1>
+
+
+
+Lasagna Noodles or Lasagna Sheets
+Mozzarella Cheese 
+
+
+<a href="https://www.allrecipes.com/thmb/KDn_f7OpwuPEjICWCoD3dZx4kik=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/944544-ce9b872fd8a14a76ac307d1e8d2eae5b.jpg">Cheese Lasagna</a>
+<a href="index.html">Great Recipes</a>
+
+</body>
+</html>
+
 
 
 
@@ -65,5 +102,6 @@ Mozzarella Cheese
 
 </body>
 </html>
+
 
 
